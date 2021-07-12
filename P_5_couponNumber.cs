@@ -31,7 +31,7 @@ namespace couponNumber
 
                 if (!isDuplicate)
                 {
-                    Console.WriteLine(numbers[i]);                     //for checking
+                    //Console.WriteLine(numbers[i]);                     //for checking
                     count++;
                 }
 
